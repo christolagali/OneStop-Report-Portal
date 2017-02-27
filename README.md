@@ -32,3 +32,8 @@ Search Bar tries to find the closest tag to the entered Text
 CSS classes are used to highlight the location
 ![report-center-view-search2](https://cloud.githubusercontent.com/assets/7992156/23382409/d933702e-fcf6-11e6-8ee8-77bc7ee73ed3.jpg)
 
+Trying to search for PEM Intranet Report
+![report-center-view-search3](https://cloud.githubusercontent.com/assets/7992156/23382821/88a7a3bc-fcf8-11e6-85a3-805c1f160b9f.jpg)
+
+Found Report!
+![report-center-view-search4](https://cloud.githubusercontent.com/assets/7992156/23382820/88a306e0-fcf8-11e6-9dca-26fa639a9c1e.jpg)
