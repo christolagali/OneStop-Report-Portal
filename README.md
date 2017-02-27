@@ -37,3 +37,20 @@ Trying to search for PEM Intranet Report
 
 Found Report!
 ![report-center-view-search4](https://cloud.githubusercontent.com/assets/7992156/23382820/88a306e0-fcf8-11e6-9dca-26fa639a9c1e.jpg)
+
+
+3. AngularJS Analytics
+We did use angular-nvd3 angular Libraries to display the chart located to the right.
+JSON $scope.data was fed to the runChart() function with a variable $scope.typeSel that allowed users to chose the type of chart.
+
+<nvd3 options="options" data="data" api="api"></nvd3>
+<nvd3> tags were used get the options and data in the $scope.
+
+fig: Enable user to select the type of chart
+![report-center-view-analytics1](https://cloud.githubusercontent.com/assets/7992156/23383195/138275ec-fcfa-11e6-9321-58ebfab972ff.jpg)
+
+Chart displayed dynamically
+![report-center-view-analytics2](https://cloud.githubusercontent.com/assets/7992156/23383197/17efa76c-fcfa-11e6-867b-d349342ec577.jpg)
+
+
+
